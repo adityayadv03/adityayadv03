@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityayadv03&label=Profile%20views&color=0e75b6&style=flat" alt="adityayadv03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityayadv03" alt="adityayadv03" /></a> </p>
-
 - 🌱 I’m currently learning **Java Programming DSA and Other Course Related Things**
 
 - 📫 How to reach me **officialuser.aditya2022@gmail.com**
